@@ -1,0 +1,84 @@
+body {
+    color: #4b2707;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    font-size: 20px;
+    font-family: 'Open Sans', "Helvetica Neue", Arial, sans-serif;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+a:link {
+    color: darkolivegreen;
+}
+
+a:visited {
+    color: darkolivegreen;
+}
+
+a:hover {
+    color:mediumseagreen
+}
+
+header nav {
+    text-align: center;
+}
+
+header nav ul, section a {
+    list-style: none;
+    line-height: 141px;
+}
+
+header nav ul li, section a {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+header nav ul li a, section a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.add-form {
+    width: 180px;
+    margin: 0 auto;
+    padding: 10PX;
+}
+
+#first-name, #name, #last-name, #description, #isPartFunded {
+    display: block;
+    margin: 10px;
+}
+
+table {
+    margin: 0 auto;
+    font-size: medium;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: #006600;
+    font-size: xx-large;
+    font-family: ' Calibri', 'sans-serif';
+}
+
+td {
+    background-color: #E4F5D4;
+    border: 1px solid black;
+}
+
+th, td {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}

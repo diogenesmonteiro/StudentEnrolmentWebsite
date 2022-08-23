@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "studentId": 1,
+        "courseId": 1
+    },
+    {
+        "id": 2,
+        "studentId": 2,
+        "courseId": 3
+    },
+    {
+        "id": 3,
+        "studentId": 3,
+        "courseId": 2
+    },
+    {
+        "id": 4,
+        "studentId": 4,
+        "courseId": 4
+    },
+    {
+        "id": 5,
+        "studentId": 5,
+        "courseId": 4
+    },
+    {
+        "id": 6,
+        "studentId": 6,
+        "courseId": 1
+    },
+    {
+        "id": 7,
+        "studentId": 7,
+        "courseId": 2
+    },
+    {
+        "id": 8,
+        "studentId": 8,
+        "courseId": 3
+    },
+    {
+        "id": 9,
+        "studentId": 9,
+        "courseId": 4
+    },
+    {
+        "id": 10,
+        "studentId": 10,
+        "courseId": 4
+    },
+    {
+        "id": 11,
+        "studentId": 11,
+        "courseId": 2
+    },
+    {
+        "id": 12,
+        "studentId": 12,
+        "courseId": 1
+    },
+    {
+        "id": 13,
+        "studentId": 13,
+        "courseId": 2
+    },
+    {
+        "id": 14,
+        "studentId": 14,
+        "courseId": 2
+    },
+    {
+        "id": 15,
+        "studentId": 15,
+        "courseId": 4
+    },
+    {
+        "id": 16,
+        "studentId": 16,
+        "courseId": 1
+    },
+    {
+        "id": 17,
+        "studentId": 17,
+        "courseId": 4
+    },
+    {
+        "id": 18,
+        "studentId": 18,
+        "courseId": 4
+    },
+    {
+        "id": 19,
+        "studentId": 19,
+        "courseId": 3
+    },
+    {
+        "id": 20,
+        "studentId": 20,
+        "courseId": 2
+    },
+    {
+        "id": 21,
+        "studentId": 21,
+        "courseId": 4
+    },
+    {
+        "id": 22,
+        "studentId": 22,
+        "courseId": 4
+    },
+    {
+        "id": 23,
+        "studentId": 23,
+        "courseId": 1
+    },
+    {
+        "id": 24,
+        "studentId": 24,
+        "courseId": 1
+    },
+    {
+        "id": 25,
+        "studentId": 25,
+        "courseId": 2
+    },
+    {
+        "id": 26,
+        "studentId": 26,
+        "courseId": 2
+    },
+    {
+        "id": 27,
+        "studentId": 27,
+        "courseId": 3
+    },
+    {
+        "id": 28,
+        "studentId": 28,
+        "courseId": 1
+    },
+    {
+        "id": 29,
+        "studentId": 29,
+        "courseId": 4
+    },
+    {
+        "id": 30,
+        "studentId": 30,
+        "courseId": 2
+    },
+    {
+        "id": 31,
+        "studentId": 31,
+        "courseId": 3
+    },
+    {
+        "id": 32,
+        "studentId": 32,
+        "courseId": 4
+    },
+    {
+        "id": 33,
+        "studentId": 33,
+        "courseId": 2
+    },
+    {
+        "id": 34,
+        "studentId": 34,
+        "courseId": 3
+    },
+    {
+        "id": 35,
+        "studentId": 35,
+        "courseId": 1
+    },
+    {
+        "id": 36,
+        "studentId": 36,
+        "courseId": 3
+    },
+    {
+        "id": 37,
+        "studentId": 37,
+        "courseId": 2
+    },
+    {
+        "id": 38,
+        "studentId": 38,
+        "courseId": 3
+    },
+    {
+        "id": 39,
+        "studentId": 39,
+        "courseId": 4
+    },
+    {
+        "id": 40,
+        "studentId": 40,
+        "courseId": 2
+    },
+    {
+        "id": 41,
+        "studentId": 41,
+        "courseId": 3
+    },
+    {
+        "id": 42,
+        "studentId": 42,
+        "courseId": 3
+    },
+    {
+        "id": 43,
+        "studentId": 43,
+        "courseId": 1
+    },
+    {
+        "id": 44,
+        "studentId": 44,
+        "courseId": 1
+    },
+    {
+        "id": 45,
+        "studentId": 45,
+        "courseId": 1
+    },
+    {
+        "id": 46,
+        "studentId": 46,
+        "courseId": 3
+    },
+    {
+        "id": 47,
+        "studentId": 47,
+        "courseId": 3
+    },
+    {
+        "id": 48,
+        "studentId": 48,
+        "courseId": 4
+    },
+    {
+        "id": 49,
+        "studentId": 49,
+        "courseId": 1
+    },
+    {
+        "id": 50,
+        "studentId": 50,
+        "courseId": 4
+    }
+]

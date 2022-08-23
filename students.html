@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Students</title>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="scripts/script.js"></script>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+    <body>
+        <section>
+            <a id="btnHome " href="index.html">Home</a>
+
+            <h1>Students</h1>
+
+            <form class="add-form">
+                <label for="first-name">First Name: </label>
+                <input id="first-name" type="text">
+
+                <label for="last-name">Last Name: </label>
+                <input id="last-name" type="text">
+
+                <input id="add-student-btn" type="button" value="Add student" onclick="addStudent('students-table', 'first-name', 'last-name')" />
+                <input id="reset-btn" type="reset" value="Reset" onClick = "clear()">
+            </form>
+
+            <div>
+                <table id="students-table">
+                    <tr>
+                        <th>ID</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                    </tr>
+                </table>
+            </div>
+
+        </section>
+    </body>
+</html>

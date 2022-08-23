@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Subjects</title>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="scripts/script.js"></script>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<section>
+    <a id="btnHome " href="index.html">Home</a>
+
+    <h1>Subjects</h1>
+
+    <form class="add-form">
+        <label for="name">Name: </label>
+        <input id="name" type="text">
+
+        <label for="description">Description: </label>
+        <textarea id="description" type="text" rows="4" cols="50"></textarea>
+
+        <input id="add-subject-btn" type="button" value="Add subject" onclick="addSubject('subjects-table', 'name', 'description')" />
+        <input id="reset-btn" type="reset" value="Reset" onClick="clear()">
+    </form>
+
+    <div>
+        <table id="subjects-table">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+        </table>
+    </div>
+
+</section>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Courses</title>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="scripts/script.js"></script>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <section>
+        <a id="btnHome" href="index.html">Home</a>
+
+        <h1>Courses</h1>
+
+        <form class="add-form">
+            <label for="name">Name: </label>
+            <input id="name" type="text">
+
+            <label for="description">Description: </label>
+            <textarea id="description" type="text" rows="4" cols="50"></textarea>
+
+            <label>Part Funded: </label><br>
+            <label for="true">true</label>
+            <input type="radio" name="isPartFunded" value="true" id="true">
+            <label for="false">false</label>
+            <input type="radio" name="isPartFunded" value="false" id="false">
+
+            <input id="add-course-btn" type="button" value="Add course" onclick="addCourse('courses-table', 'name', 'description', 'isPartFunded')" />
+            <input id="reset-btn" type="reset" value="Reset" onClick="clear()">
+        </form>
+
+        <div>
+            <table id="courses-table">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Part Funded</th>
+                </tr>
+            </table>
+        </div>
+
+    </section>
+</body>
+</html>
